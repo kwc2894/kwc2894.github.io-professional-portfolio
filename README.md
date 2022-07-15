@@ -30,9 +30,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 ## Screenshot
-
+![PortfolioScreen](https://github.com/kwc2894/kwc2894.github.io-professional-portfolio/blob/main/Screen%20Shot%202022-07-15%20at%202.20.09%20PM.png)
 
 
 ## Deployed page
 
-Page published at: 
+Page published at: https://github.com/kwc2894/kwc2894.github.io-professional-portfolio
